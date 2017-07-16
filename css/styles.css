@@ -115,12 +115,13 @@ div{
           transform: rotateY(0);
 }
 
-#footer{
-  text-align: center;
+#projects-left, #projects-right{
+  margin-left: 20px;
+}
+#projects-center{
+  margin-left: 80px;
 }
 
-section{
-  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
+#footer{
+  text-align: center;
 }
