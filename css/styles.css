@@ -72,10 +72,10 @@ div{
   float: left;
   padding-bottom: 25%;
   margin-left: 10px;
-  width: 80%;
+  width: 300px;
   height: 200px;
   text-align: center;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .front,
@@ -115,12 +115,15 @@ div{
           transform: rotateY(0);
 }
 
-#footer{
-  text-align: center;
+#projects-left, #projects-right{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+#projects-center{
+  margin-left: 110px;
+  margin-top: 20px;
 }
 
-section{
-  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
+#footer{
+  text-align: center;
 }
