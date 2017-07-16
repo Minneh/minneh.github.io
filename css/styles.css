@@ -146,13 +146,6 @@ div{
 
 #footer{
   text-align: center;
-}
-
-section{
-  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
-}
 
 .foottext {
   color: black;
