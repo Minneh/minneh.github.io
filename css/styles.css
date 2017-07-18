@@ -16,7 +16,6 @@ img{
   height: 100%;
 }
 h2, h3{
-  text-decoration:underline;
   text-align: center;
 }
 
@@ -50,6 +49,23 @@ div{
   background-repeat: no-repeat;
   background-size: auto;
   height: 851px;
+}
+
+#interests{
+  background-color:#0D0908;
+  margin: 0px;
+  padding: 0px;
+}
+
+#interests h3{
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+.interests {
+  color: white;
+  margin-left: 20%;
 }
 
 #third{
@@ -136,4 +152,12 @@ section{
   -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
     -moz-column-gap: 40px; /* Firefox */
     column-gap: 40px;
+}
+
+.foottext {
+  color: black;
+  text-align: center;
+  font-size: 12pt;
+  margin: 0px;
+  padding: 0px;
 }
