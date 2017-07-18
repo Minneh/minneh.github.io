@@ -168,3 +168,17 @@ section{
   margin: 0px;
   padding: 0px;
 }
+
+section{
+  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+}
+
+.foottext {
+  color: black;
+  text-align: center;
+  font-size: 12pt;
+  margin: 0px;
+  padding: 0px;
+}
