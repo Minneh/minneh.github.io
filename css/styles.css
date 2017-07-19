@@ -154,12 +154,6 @@ section{
     column-gap: 40px;
 }
 
-section{
-  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
-}
-
 .foottext {
   color: black;
   text-align: center;
