@@ -68,6 +68,7 @@ div{
   background-size: auto;
   width: 100%;
   height: 851px;
+  margin:0px;
 }
 
 #second{
@@ -77,6 +78,7 @@ div{
   background-repeat: no-repeat;
   background-size: auto;
   height: 851px;
+  margin:0px;
 }
 
 #interests{
@@ -103,6 +105,7 @@ div{
   background-repeat: no-repeat;
   background-size: auto;
   height: 855px;
+  margin:0px;
 }
 
 #fourth{
